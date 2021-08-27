@@ -15,7 +15,7 @@ Théorie :
   
   On utilise la balise h1 jusqu'a h6, h1 représentant le titre principal, h6 étant le ou les titres le moins important de la page.
   
-  Chaque balise h1,h2 etc... dipose de sa propre taille de texte par défaut, mais il vous est possible de redéfinir
+  Chaque balise h1,h2 etc... dispose de sa propre taille de texte par défaut, mais il vous est possible de redéfinir
   cette taille grâce au css.
   
   Exemple : 
